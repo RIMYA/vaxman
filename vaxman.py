@@ -1,7 +1,7 @@
 # Vax-Man, a re-implementation of Pacman, in Python, with PyGame.
 # Forked from: https://github.com/hbokmann/Pacman
 
-# Edited by Melwyn Francis Carlo (2021)
+# Edited by Rimya (2022)
 
 import time
 import pygame
